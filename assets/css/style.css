@@ -1,0 +1,15 @@
+section {
+    background-image: url("https://www.w3schools.com/css/gradient_bg_vertical.png");
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+}
+
+article {
+    background-image: url("https://picsum.photos/300/200");
+    height: 200;
+    width: 300;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: top;
+}
